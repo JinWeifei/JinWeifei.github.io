@@ -2,22 +2,22 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>https://jinweifei.github.io/tags/Blog/</loc>
-        <lastmod>2019-06-14T10:33:18.919Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://jinweifei.github.io/tags/else/</loc>
-        <lastmod>2019-06-14T12:00:30.278Z</lastmod>
+        <lastmod>2019-06-14T12:01:49.648Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://jinweifei.github.io/tags/%E6%8A%80%E6%9C%AF/</loc>
-        <lastmod>2019-06-14T12:00:30.278Z</lastmod>
+        <lastmod>2019-06-14T12:01:49.648Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://jinweifei.github.io/tags/Blog/</loc>
+        <lastmod>2019-06-14T12:01:54.759Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
