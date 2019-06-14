@@ -7,29 +7,29 @@
     </url>
     
     <url>
-        <loc>https://jinweifei.github.io/tags/</loc>
-        <lastmod>2019-06-10T14:08:05.746Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://jinweifei.github.io/archive/</loc>
-        <lastmod>2019-06-10T14:08:05.678Z</lastmod>
+        <loc>https://jinweifei.github.io/404.html</loc>
+        <lastmod>2019-06-14T14:37:34.582Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>https://jinweifei.github.io/about/</loc>
-        <lastmod>2019-06-10T14:08:05.677Z</lastmod>
+        <lastmod>2019-06-14T14:36:51.229Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>https://jinweifei.github.io/404.html</loc>
-        <lastmod>2019-06-10T14:08:05.660Z</lastmod>
+        <loc>https://jinweifei.github.io/archive/</loc>
+        <lastmod>2019-06-14T14:36:23.576Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://jinweifei.github.io/tags/</loc>
+        <lastmod>2019-06-10T14:08:05.746Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
