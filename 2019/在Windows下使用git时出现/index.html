@@ -142,13 +142,6 @@
 
                         
                         <li>
-                            <a href="/about/">About</a>
-                        </li>
-                        
-                    
-
-                        
-                        <li>
                             <a href="/archive/">Archives</a>
                         </li>
                         
@@ -157,6 +150,13 @@
                         
                         <li>
                             <a href="/tags/">Tags</a>
+                        </li>
+                        
+                    
+
+                        
+                        <li>
+                            <a href="/about/">About</a>
                         </li>
                         
                     
@@ -214,19 +214,19 @@
 
                 <p>###本文是我写得第一个尝试，主要可以试试我的md语句添加相对路径图片有没有做正确。</p>
 <p>如下图，git这个博客的时候出现了许多名为“在Windows下使用git时出现 warning: LF will be replaced by CRLF in xxx.”的异常</p>
-<p><img src="%E5%9C%A8Windows%E4%B8%8B%E4%BD%BF%E7%94%A8git%E6%97%B6%E5%87%BA%E7%8E%B0/1.png" alt></p>
+<p><img src="1.png" alt></p>
 <p>于是我百度原因，发现windows下的换行符是CRLF，而linux下的换行符是LF，所以会报错</p>
-<p><img src="%E5%9C%A8Windows%E4%B8%8B%E4%BD%BF%E7%94%A8git%E6%97%B6%E5%87%BA%E7%8E%B0/2.png" alt></p>
+<p><img src="/2.png" alt></p>
 <p>那么我们只要在这个项目的.git文件夹中修改一下参数就OK啦</p>
-<p><img src="%E5%9C%A8Windows%E4%B8%8B%E4%BD%BF%E7%94%A8git%E6%97%B6%E5%87%BA%E7%8E%B0/3.png" alt></p>
+<p><img src="/3.png" alt></p>
 <p>切记要进入目标仓库的最上层进行执行，就是在.git文件夹中点击bash here      O(∩_∩)O</p>
-<p><img src="%E5%9C%A8Windows%E4%B8%8B%E4%BD%BF%E7%94%A8git%E6%97%B6%E5%87%BA%E7%8E%B0/4.png" alt></p>
+<p><img src="4.png" alt></p>
 <p>输入这段代码：（这里很菜的我又搜了下<code>markdown语句写代码</code>）</p>
 <p><code>git config core.autocrlf false</code></p>
-<p><img src="%E5%9C%A8Windows%E4%B8%8B%E4%BD%BF%E7%94%A8git%E6%97%B6%E5%87%BA%E7%8E%B0/5.png" alt></p>
+<p><img src="5.png" alt></p>
 <p>输入之后没有任何提示。</p>
 <p>让我再回头<code>hexo d</code>一下</p>
-<p><img src="%E5%9C%A8Windows%E4%B8%8B%E4%BD%BF%E7%94%A8git%E6%97%B6%E5%87%BA%E7%8E%B0/6.png" alt></p>
+<p><img src="6.png" alt></p>
 <p>大功告成，开森~~</p>
 
                 
