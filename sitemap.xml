@@ -2,18 +2,18 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <sitemap>
-        <loc>http://yoursite-url/post-sitemap.xml</loc>
+        <loc>https://jinweifei.github.io/post-sitemap.xml</loc>
         <lastmod>2019-06-14T10:33:18.919Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://yoursite-url/page-sitemap.xml</loc>
+        <loc>https://jinweifei.github.io/page-sitemap.xml</loc>
         <lastmod>2019-06-10T14:08:05.746Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://yoursite-url/tag-sitemap.xml</loc>
-        <lastmod>2019-06-10T14:08:05.662Z</lastmod>
+        <loc>https://jinweifei.github.io/tag-sitemap.xml</loc>
+        <lastmod>2019-06-14T10:33:18.919Z</lastmod>
     </sitemap>
 
 </sitemapindex>
